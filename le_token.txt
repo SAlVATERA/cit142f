@@ -1,8 +1,9 @@
 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
 
 git remote set-url origin https://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@github.com/SALVATERA/cit142f.git
-
+pause
 Upload it to your repository by using this commands:
 git add . 
 git commit -m "first upload"
 git push
+pause
